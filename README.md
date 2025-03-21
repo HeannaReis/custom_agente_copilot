@@ -39,8 +39,8 @@ No diretório raiz do projeto, crie um arquivo `.env` e adicione a chave da API 
 ```plaintext
 GEMINI_API_KEY=your_api_key_here
 ```
-Aviso: Para utilizar esta aplicação, é necessário possuir uma chave de API do Gemini do Google. Para mais informações e para obter uma chave, acesse: [Google AI Studio](https://aistudio.google.com/)
-
+> ⚠️ **Atenção**: Para utilizar esta aplicação, é necessário obter uma chave de API da Google AI Studio.  
+> Você pode obter a sua chave em [Google AI Studio](https://aistudio.google.com/).
 
 ### 4. Configure os Diretórios
 Certifique-se de que os diretórios `assets` e `processed_images` estejam configurados corretamente. Coloque as imagens que deseja processar dentro do diretório `assets`.
